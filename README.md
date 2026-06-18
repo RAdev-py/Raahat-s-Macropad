@@ -2,6 +2,8 @@
 
 Welcome to the repository for my custom Macropad! It features 9 mechanical keys, a rotary encoder for volume/scrolling control, and an OLED screen.
 
+Note: I used AI to help me whenever I got stuck with onshape cadding and I also used it to help me write up the firmware.
+
 The firmware is powered by KMK.
 
 ## Project Gallery
